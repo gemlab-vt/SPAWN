@@ -1,0 +1,1202 @@
+[
+  {
+    "image_id": 0,
+    "concept_id": 0,
+    "direction": "right",
+    "prompt": "Place a small rowboat with a single oar floating in the center of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 1,
+    "direction": "right",
+    "prompt": "Add a lily pad cluster with a single blooming flower near the bottom left corner."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 2,
+    "direction": "right",
+    "prompt": "Introduce a large willow tree casting its shadow over the water from the right side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 3,
+    "direction": "right",
+    "prompt": "Place a turtle resting on a rock near the water's edge on the right side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 4,
+    "direction": "left",
+    "prompt": "Insert a lemonade stand with a small sign in the shaded area on the left."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 5,
+    "direction": "right",
+    "prompt": "Insert a colorful kite flying in the sky above the lake's far shoreline."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 6,
+    "direction": "right",
+    "prompt": "Add a lone paddleboarder in the middle of the lake, standing on a bright blue board."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 7,
+    "direction": "right",
+    "prompt": "Place a bright red umbrella next to a bench on the right side, providing shade."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 8,
+    "direction": "left",
+    "prompt": "Place an ice cream cart with a multicolored umbrella closer to the center of the field."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 9,
+    "direction": "left",
+    "prompt": "Place a large red balloon tied to a park bench in the sunlit area."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 10,
+    "direction": "left",
+    "prompt": "Insert a single soccer ball lying on the grass, slightly to the right."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 11,
+    "direction": "left",
+    "prompt": "Place a painter with an easel set up under the tree on the left."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 12,
+    "direction": "right",
+    "prompt": "Insert a remote-controlled toy sailboat in the southern part of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 13,
+    "direction": "right",
+    "prompt": "Add a small wind turbine on the far right corner on the grassy area."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 14,
+    "direction": "left",
+    "prompt": "Add a painter's palette with various colors, lying on the grass near the center."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 15,
+    "direction": "right",
+    "prompt": "Place a pair of binoculars on a small tripod near the lake's edge left side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 16,
+    "direction": "right",
+    "prompt": "Insert a single drone hovering about ten feet above the center of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 17,
+    "direction": "right",
+    "prompt": "Add a small stone fountain spraying water on the left side of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 18,
+    "direction": "right",
+    "prompt": "Add an elegant wooden bridge connecting both sides across the middle of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 19,
+    "direction": "right",
+    "prompt": "Place a weathered life preserver ring attached to a post near the right bank."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 20,
+    "direction": "right",
+    "prompt": "Insert a metallic drinking fountain on the grassy ground near the left side of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 21,
+    "direction": "right",
+    "prompt": "Add a coffee cart stationed on the grassy area near the lower left corner."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 22,
+    "direction": "left",
+    "prompt": "Add a single flamingo standing gracefully on one leg near the edge of the grass."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 23,
+    "direction": "right",
+    "prompt": "Add a vintage lantern hanging from a tree on the far right side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 24,
+    "direction": "right",
+    "prompt": "Insert a solitary windsurfer gliding across the lake near the center."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 25,
+    "direction": "right",
+    "prompt": "Add a remote-controlled sailboat cruising near the shoreline on the left side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 26,
+    "direction": "left",
+    "prompt": "Place a solitary kayak parked at the edge of the imaginary pond in the middle."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 27,
+    "direction": "right",
+    "prompt": "Add a small lighthouse model on a rock near the middle left of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 28,
+    "direction": "right",
+    "prompt": "Add a fisherman with a hat sitting on a folding chair near the right bank."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 29,
+    "direction": "left",
+    "prompt": "Add a blue water cooler stationed near the tree line at the back of the field."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 30,
+    "direction": "left",
+    "prompt": "Place a lone park map on a stand situated near the entrance on the right side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 31,
+    "direction": "right",
+    "prompt": "Add a lone violin case resting under a tree on the right side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 32,
+    "direction": "left",
+    "prompt": "Place a single rubber duck floating on an imaginary pond in the middle of the field."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 33,
+    "direction": "left",
+    "prompt": "Add a hammock strung between two trees in the shaded area on the left."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 34,
+    "direction": "right",
+    "prompt": "Insert a vibrant red canoe tied to a tree on the far right bank."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 35,
+    "direction": "left",
+    "prompt": "Insert a small tent pitched under the tree at the back right side of the field."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 36,
+    "direction": "right",
+    "prompt": "Add a fisherman in waders casting a line near the far left shore."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 37,
+    "direction": "left",
+    "prompt": "Place a barrel standing at the edge of the path to the right of the scene."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 38,
+    "direction": "right",
+    "prompt": "Add a small motorboat slowly cruising along the far side of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 39,
+    "direction": "left",
+    "prompt": "Add a mini barbecue grill with smoke rising next to the tree on the far left."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 40,
+    "direction": "right",
+    "prompt": "Insert a wooden ladder leading from the shore into the water on the left side."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 41,
+    "direction": "left",
+    "prompt": "Insert a single pair of sneakers left on the grass near the pathway entrance."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 42,
+    "direction": "left",
+    "prompt": "Place a tiny toy sailboat floating in an imaginary pond near the center of the field."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 43,
+    "direction": "left",
+    "prompt": "Add an individual doing tai chi on the center grass under the sunlight."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 44,
+    "direction": "right",
+    "prompt": "Insert an artist with an easel painting the lake scenery on the right bank."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 45,
+    "direction": "right",
+    "prompt": "Add a lone weeping willow growing on a small island near the center of the lake."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 46,
+    "direction": "left",
+    "prompt": "Add an open yoga mat placed in the sunlit grassy area in the center."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 47,
+    "direction": "left",
+    "prompt": "Place a small canoe resting on the imaginary shore of an unseen pond by the left."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 48,
+    "direction": "right",
+    "prompt": "Add a bright red kite shaped like a bird darting through the sky near the center."
+  },
+  {
+    "image_id": 0,
+    "concept_id": 49,
+    "direction": "left",
+    "prompt": "Insert a professional camera on a tripod set up in the center of the field capturing the view."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 0,
+    "direction": "left",
+    "prompt": "Place a white delivery van parked on the road in the foreground."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 1,
+    "direction": "left",
+    "prompt": "Insert a blue city bus driving down the center lane of the street."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 2,
+    "direction": "right",
+    "prompt": "Place a street vendor cart with an umbrella on the far left of the sidewalk."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 3,
+    "direction": "left",
+    "prompt": "Place a street artist painting on a canvas just beside the palm trees."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 4,
+    "direction": "left",
+    "prompt": "Add a police car parked along the right side of the street."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 5,
+    "direction": "left",
+    "prompt": "Place a street vendor cart selling snacks near the curb."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 6,
+    "direction": "right",
+    "prompt": "Place a street musician playing a guitar near the leftmost tree."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 7,
+    "direction": "left",
+    "prompt": "Insert a person reading a newspaper seated on a bench to the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 8,
+    "direction": "right",
+    "prompt": "Add a construction cone on the sidewalk indicating ongoing work."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 9,
+    "direction": "left",
+    "prompt": "Place a single sidewalk sign advertising ice cream near the tree in the foreground."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 10,
+    "direction": "right",
+    "prompt": "Add a tall banner advertising an upcoming event attached to a street lamp post."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 11,
+    "direction": "right",
+    "prompt": "Add a stainless steel water fountain beside the farthest wall on the sidewalk."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 12,
+    "direction": "right",
+    "prompt": "Place a car parked in the opposite lane signaling to turn left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 13,
+    "direction": "left",
+    "prompt": "Include a couple walking hand-in-hand along the path behind the tree."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 14,
+    "direction": "left",
+    "prompt": "Insert a worker fixing a streetlight with a ladder near the entrance gate."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 15,
+    "direction": "right",
+    "prompt": "Insert a newspaper kiosk with a variety of magazines near the street's entrance."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 16,
+    "direction": "left",
+    "prompt": "Place a small bird feeder hanging from the palm tree in the foreground."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 17,
+    "direction": "left",
+    "prompt": "Insert an ice cream truck parked near the sidewalk on the left side."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 18,
+    "direction": "right",
+    "prompt": "Place a single, red unicycle abandoned on the sidewalk near the edge."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 19,
+    "direction": "left",
+    "prompt": "Include a small street food vendor cart on the right side of the street."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 20,
+    "direction": "left",
+    "prompt": "Place a skateboard resting against the base of the lamppost on the right."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 21,
+    "direction": "right",
+    "prompt": "Insert a brown cardboard box sitting on the side of the sidewalk, slightly open."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 22,
+    "direction": "left",
+    "prompt": "Insert a man playing the guitar seated on the sidewalk to the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 23,
+    "direction": "right",
+    "prompt": "Place a large planter with blooming flowers next to the leftmost palm tree."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 24,
+    "direction": "left",
+    "prompt": "Include a person reading a book sitting against a palm tree."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 25,
+    "direction": "right",
+    "prompt": "Position a set of three colorful balloons tied to the railing on the far right."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 26,
+    "direction": "left",
+    "prompt": "Add a construction worker in a hard hat checking a clipboard near the middle palm tree."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 27,
+    "direction": "left",
+    "prompt": "Include a taxi driver waving from the window near the curb on the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 28,
+    "direction": "right",
+    "prompt": "Place a red fire hydrant adjacent to the last palm tree on the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 29,
+    "direction": "right",
+    "prompt": "Add a small dog curled up and napping under the shadow of the nearest car."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 30,
+    "direction": "right",
+    "prompt": "Position a street artist painting with an easel set up on the far left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 31,
+    "direction": "left",
+    "prompt": "Add an ice cream vendor pushing a cart along the sidewalk on the left side."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 32,
+    "direction": "left",
+    "prompt": "Place a person sitting on a bench reading a book near the palm tree on the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 33,
+    "direction": "left",
+    "prompt": "Add a small cat sitting on the sidewalk in front of the building entrance."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 34,
+    "direction": "left",
+    "prompt": "Insert a street artist drawing chalk art on the sidewalk near the palm trees."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 35,
+    "direction": "left",
+    "prompt": "Place a mother pushing a baby stroller along the sidewalk on the far right side."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 36,
+    "direction": "left",
+    "prompt": "Add a parked food truck serving customers on the right side of the street."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 37,
+    "direction": "right",
+    "prompt": "Place a brown suitcase standing upright next to the nearest lamp post."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 38,
+    "direction": "left",
+    "prompt": "Place a floating balloon vendor standing next to the lamppost on the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 39,
+    "direction": "left",
+    "prompt": "Add a bright yellow school bus stopped near the curb with its doors open."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 40,
+    "direction": "right",
+    "prompt": "Place an artist painting a canvas on an easel near the left sidewalk edge."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 41,
+    "direction": "left",
+    "prompt": "Include a small hot dog stand with a vendor serving a customer near the right-side lamppost."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 42,
+    "direction": "left",
+    "prompt": "Insert a taxi with its back door open, parked beside the blue entrance gate."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 43,
+    "direction": "left",
+    "prompt": "Place a street cleaner machine sweeping the curbside on the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 44,
+    "direction": "left",
+    "prompt": "Insert a street lamp technician working on a ladder near the lamppost."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 45,
+    "direction": "right",
+    "prompt": "Place a black briefcase lying open beside the curb on the left."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 46,
+    "direction": "left",
+    "prompt": "Place a classic vintage car parked along the sidewalk on the right."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 47,
+    "direction": "right",
+    "prompt": "Position a gardener using a watering can on the left near the plants."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 48,
+    "direction": "right",
+    "prompt": "Add a mime artist pretending to be stuck in a box on the center sidewalk."
+  },
+  {
+    "image_id": 2,
+    "concept_id": 49,
+    "direction": "left",
+    "prompt": "Include a painter touching up graffiti art on the building wall."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 0,
+    "direction": "right",
+    "prompt": "Insert a classic wooden rocking chair directly in front of the large rock formations."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 1,
+    "direction": "right",
+    "prompt": "Add a lone streetlight with a lit bulb to the left of the gnarled tree."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 2,
+    "direction": "left",
+    "prompt": "Position a bright blue laptop open and angled against the large rock in the left mid-ground."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 3,
+    "direction": "right",
+    "prompt": "Place a transparent glass coffee table on the barren soil near the center of the frame."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 4,
+    "direction": "right",
+    "prompt": "Add a small pond with a rubber duck floating near the base of the left rock formation."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 5,
+    "direction": "left",
+    "prompt": "Add a flat-screen TV standing on a metal stand to the left of the arch-shaped rock formation."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 6,
+    "direction": "right",
+    "prompt": "Insert a man wearing a black cowboy hat sitting on the rock closest to the camera."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 7,
+    "direction": "right",
+    "prompt": "Place a giant stuffed teddy bear reclining against the rocks in the foreground."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 8,
+    "direction": "right",
+    "prompt": "Include a floating bubble with rainbow reflections above the leftmost rock formation."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 9,
+    "direction": "right",
+    "prompt": "Position a birdcage with a small parrot inside hanging from a branch of the twisted tree."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 10,
+    "direction": "left",
+    "prompt": "Place a digital alarm clock on a flat rock to the right near the rock archway."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 11,
+    "direction": "right",
+    "prompt": "Insert a tall glass vase with sunflowers at the base of the left tree."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 12,
+    "direction": "left",
+    "prompt": "Insert an electric hairdryer lying on the flat rock near the center left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 13,
+    "direction": "right",
+    "prompt": "Place an antique pocket watch, open and glinting in the sunlight, on the rock near the center."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 14,
+    "direction": "left",
+    "prompt": "Position a decorative throw pillow casually resting against a small boulder in the left foreground."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 15,
+    "direction": "left",
+    "prompt": "Add a clear acrylic tissue box placed atop a small flat rock near the scene's left side."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 16,
+    "direction": "right",
+    "prompt": "Add a skateboard lying on its side near the base of the twisted tree on the left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 17,
+    "direction": "left",
+    "prompt": "Insert a pair of headphones draped over the edge of a medium-sized rock mid-left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 18,
+    "direction": "right",
+    "prompt": "Add a park bench facing towards the horizon on the left side of the image."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 19,
+    "direction": "left",
+    "prompt": "Insert a digital air fryer perched on a flat rocky surface to the left of the central formation."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 20,
+    "direction": "left",
+    "prompt": "Place a stylish red coffee maker nestled against a cluster of small rocks mid-left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 21,
+    "direction": "left",
+    "prompt": "Insert a metallic silver toaster oven sitting on a flat rock in the center foreground."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 22,
+    "direction": "left",
+    "prompt": "Place a stainless steel travel mug upright on a small rock near the left side of the scene."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 23,
+    "direction": "left",
+    "prompt": "Position a shiny steel bicycle chain coiled on a prominent rock near the center."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 24,
+    "direction": "left",
+    "prompt": "Insert a sleek desktop computer tower placed directly on a rocky ledge at the base of the twisted formation."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 25,
+    "direction": "right",
+    "prompt": "Place a pair of binoculars on the rock facing toward the horizon."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 26,
+    "direction": "left",
+    "prompt": "Position a polished metal frying pan hanging on a jutting rock near the lower left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 27,
+    "direction": "right",
+    "prompt": "Add a cauldron with smoke gently rising from it at the base of the left-side tree."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 28,
+    "direction": "left",
+    "prompt": "Place a glass fishbowl filled with water sitting on a small rock ledge in the middle left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 29,
+    "direction": "right",
+    "prompt": "Insert an umbrella stand with a black umbrella beside the prominent rock on the left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 30,
+    "direction": "left",
+    "prompt": "Add a stainless steel kitchen blender placed upright on a flat rock near the lower right corner."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 31,
+    "direction": "left",
+    "prompt": "Insert a colorful beach umbrella opened wide, wedged between rocks on the mid-right."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 32,
+    "direction": "left",
+    "prompt": "Place a modern black smart speaker on a flat rock in the top left corner."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 33,
+    "direction": "left",
+    "prompt": "Position a modern wireless router with antennas on a flat surface of a mid-ground rock."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 34,
+    "direction": "left",
+    "prompt": "Insert a bright neon desk lamp shining towards the twisted rock formation on the left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 35,
+    "direction": "right",
+    "prompt": "Place a snowman with a carrot nose at the base of the left tree."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 36,
+    "direction": "left",
+    "prompt": "Insert a bright red toolbox with its lid open, sitting on the rocks to the left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 37,
+    "direction": "left",
+    "prompt": "Add a red plastic watering can perched on the edge of a rock to the far right."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 38,
+    "direction": "right",
+    "prompt": "Place a rubber duck sitting on a puddle near the base of the center rock."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 39,
+    "direction": "left",
+    "prompt": "Position a colorful woven picnic basket on a prominent rock near the lower right."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 40,
+    "direction": "left",
+    "prompt": "Place a black leather briefcase leaning against a small rock mid-left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 41,
+    "direction": "left",
+    "prompt": "Insert a contemporary wooden wall clock hanging on a jagged rock protrusion to the right."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 42,
+    "direction": "right",
+    "prompt": "Insert a violin propped against the base of the twisting rock on the left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 43,
+    "direction": "left",
+    "prompt": "Add a small digital radio placed upright on the rocky terrain near the left corner."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 44,
+    "direction": "left",
+    "prompt": "Insert a brightly colored bicycle helmet resting on a rock in the center left."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 45,
+    "direction": "right",
+    "prompt": "Include a basket of fresh fruit on the flat surface of the central rock formation."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 46,
+    "direction": "left",
+    "prompt": "Insert a ceramic coffee mug sitting atop a flat rock near the lower left corner."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 47,
+    "direction": "right",
+    "prompt": "Position a magician's hat with a wand sticking out near the left foreground edge."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 48,
+    "direction": "left",
+    "prompt": "Place a pair of wireless headphones resting flat on a rock near the left edge."
+  },
+  {
+    "image_id": 7,
+    "concept_id": 49,
+    "direction": "left",
+    "prompt": "Add a potted house plant sitting neatly on a flat rock toward the right foreground."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 0,
+    "direction": "left",
+    "prompt": "Place a bright red vintage telephone booth near the cluster of trees on the right."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 1,
+    "direction": "right",
+    "prompt": "Place a bright red telephone booth in the middle of the snowy field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 2,
+    "direction": "left",
+    "prompt": "Add a vintage phonograph with a large horn in the middle of the snowy field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 3,
+    "direction": "right",
+    "prompt": "Insert a classic wooden rocking chair near the base of the largest tree."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 4,
+    "direction": "right",
+    "prompt": "Place a wooden picnic table with a green umbrella to the left side of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 5,
+    "direction": "left",
+    "prompt": "Position a glistening ice sculpture of a swan standing majestically in the center of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 6,
+    "direction": "left",
+    "prompt": "Place a lone kayaker paddling slowly along the edge of the frozen river."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 7,
+    "direction": "left",
+    "prompt": "Add a rustic wooden bench with snow piled atop it near the right side of the riverbank."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 8,
+    "direction": "right",
+    "prompt": "Place a streetlamp with a glowing light near the edge of the open field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 9,
+    "direction": "left",
+    "prompt": "Insert a picnic basket on the snow."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 10,
+    "direction": "right",
+    "prompt": "Insert an artist with an easel painting the landscape in the middle distance."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 11,
+    "direction": "left",
+    "prompt": "Insert an arched wooden footbridge crossing the frozen river."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 12,
+    "direction": "right",
+    "prompt": "Add a transparent glass vase filled with colorful flowers on the snow."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 13,
+    "direction": "right",
+    "prompt": "Add a lone brown bear walking through the snow towards the right side."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 14,
+    "direction": "right",
+    "prompt": "Place a metal briefcase half-buried in the snow near the far tree line."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 15,
+    "direction": "right",
+    "prompt": "Add a vintage gramophone playing music in a small clearing."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 16,
+    "direction": "right",
+    "prompt": "Insert a woman in a bright red coat walking along the snow-covered path."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 17,
+    "direction": "right",
+    "prompt": "Insert a small pond with ducks swimming in it near the center of the forest field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 18,
+    "direction": "left",
+    "prompt": "Position a lone flamingo standing unbothered on a snow mound by the river."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 19,
+    "direction": "right",
+    "prompt": "Add a rustic metal windmill spinning slowly among the trees on the left side."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 20,
+    "direction": "right",
+    "prompt": "Place a person in a yellow raincoat holding an umbrella walking down the path."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 21,
+    "direction": "right",
+    "prompt": "Insert an antique grandfather clock standing prominently in the snow near the right side."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 22,
+    "direction": "right",
+    "prompt": "Add a sleek silver motorbike parked on the left beside a large tree."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 23,
+    "direction": "right",
+    "prompt": "Insert a deer quietly grazing on a patch of grass near the distant tree line."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 24,
+    "direction": "left",
+    "prompt": "Place a colorful neon sign that reads 'Open 24/7' in front of the tree on the left."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 25,
+    "direction": "right",
+    "prompt": "Add a translucent glass sculpture shimmering under the sunlight near the path."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 26,
+    "direction": "right",
+    "prompt": "Insert a solitary penguin waddling through the snow towards the left side."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 27,
+    "direction": "right",
+    "prompt": "Add a whimsical garden gnome partially hidden behind a tree in the background."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 28,
+    "direction": "right",
+    "prompt": "Insert a red mailbox with a small flag in the middle of the snow."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 29,
+    "direction": "right",
+    "prompt": "Add a fully decorated Christmas tree with twinkling lights among the trees."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 30,
+    "direction": "right",
+    "prompt": "Place a small, antique cannon situated near the middle of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 31,
+    "direction": "right",
+    "prompt": "Insert a person in a spacesuit waving from the center of the open area."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 32,
+    "direction": "right",
+    "prompt": "Insert a towering grandfather cactus covered in snow, in the middle of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 33,
+    "direction": "right",
+    "prompt": "Add a solitary metal park bench facing the snow-covered open space at the center."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 34,
+    "direction": "left",
+    "prompt": "Position a bright orange camping tent among the trees near the riverbank."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 35,
+    "direction": "left",
+    "prompt": "Insert an ornate fountain with frozen water jets at the clearing's center."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 36,
+    "direction": "right",
+    "prompt": "Place a red canoe partially visible, sticking out from behind the center trees."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 37,
+    "direction": "right",
+    "prompt": "Add a single metal trash can standing upright on the snow-covered field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 38,
+    "direction": "right",
+    "prompt": "Insert a small eagle perched on one of the snow-laden branches in the foreground."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 39,
+    "direction": "right",
+    "prompt": "Place a vintage typewriter resting atop a patch of smoothed snow near the right side trees."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 40,
+    "direction": "left",
+    "prompt": "Add stacked colorful kayaks in the center of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 41,
+    "direction": "left",
+    "prompt": "Insert a colorful vending parked on the snowy path beside the trees."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 42,
+    "direction": "right",
+    "prompt": "Insert a lone peacock spreading its feathers under a tree near the left background."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 43,
+    "direction": "left",
+    "prompt": "Insert a pair of ice skates hanging from a tree branch near the riverside."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 44,
+    "direction": "left",
+    "prompt": "Insert a small, cozy log cabin at the edge of the forest on the left."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 45,
+    "direction": "left",
+    "prompt": "Add a vintage wooden sled leaning against a large pine tree on the left side of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 46,
+    "direction": "left",
+    "prompt": "Position a tall stack of papers in the snow at the edge of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 47,
+    "direction": "left",
+    "prompt": "Add a classical marble statue of a graceful woman on the left side of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 48,
+    "direction": "left",
+    "prompt": "Insert a large, bright blue inflatable swimming pool in the center of the field."
+  },
+  {
+    "image_id": 8,
+    "concept_id": 49,
+    "direction": "left",
+    "prompt": "Position an artist painting snowmen in the snowy clearing."
+  }
+]
